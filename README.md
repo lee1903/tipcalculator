@@ -24,6 +24,8 @@ The following **additional** features are implemented:
 - [x] Clean UI with hidden cursor, removed copy and pasted ability, forced currency formatting into $x.xx
 - [x] Settings icon in the bottom right corner
 - [x] Swipe up and down gestures to reveal and hide tip percentages
+- [x] Swipe down to clear bill field
+- [x] User input always comes in from the right
 
 ## Video Walkthrough 
 
